@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # run every day at midnight UTC
-    - cron: "0 0 * * *"
-  workflow_dispatch: # manual trigger
+  schedule:
+    - cron: "0 0 * * *" # Jeden Tag um Mitternacht UTC
+  workflow_dispatch:
 
 jobs:
   build:

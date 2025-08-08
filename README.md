@@ -1,3 +1,8 @@
+<!-- Animierte schwarze Welle oben -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aprooritech/aprooritech/main/assets/wave-top-animated.svg" width="100%" />
+</p>
+
 <!-- Animated header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there+👋;+I'm+Aprooritech!;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
@@ -29,7 +34,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/aprooritech/aprooritech/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/aprooritech/aprooritech/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -42,4 +47,9 @@
   <a href="mailto:aprooritech@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<!-- Animierte schwarze Welle unten -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aprooritech/aprooritech/main/assets/wave-bottom-animated.svg" width="100%" />
 </p>
